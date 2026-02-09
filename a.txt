@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0A2E-2A00
+
+ Directory of C:\Users\prath\classwork\classwork
+
+09-02-2026  14:31    <DIR>          .
+09-02-2026  14:19    <DIR>          ..
+09-02-2026  14:31                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  41,069,891,584 bytes free
